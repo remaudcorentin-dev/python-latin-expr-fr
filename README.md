@@ -1,8 +1,8 @@
 # python-allrecipes
 ##### v0.1.6
 
-Python API to search &amp; get recipes from the 'allrecipes.com' website (web crawler, unofficial)  
-Useful, efficient and super simple to use.  
+Random Latin expression with French translations to upgrade your brain !
+Don't you know life is cool ?
 
 ### Installation :
 `pip install python-latin-expr-fr`  
@@ -10,5 +10,19 @@ Useful, efficient and super simple to use.
 
 ### Requirements :
 `python >= 3.4`  
+
+
+### Usage :
+
+`python -c 'from latinexpr import LatinExprFr ; print(LatinExprFr())'`
+
+```python
+
+from latinexpr import LatinExprFr
+
+print(LatinExprFr())
+
+```
+
 
 ###### Support / Contact : remaudcorentin.dev@gmail.com
