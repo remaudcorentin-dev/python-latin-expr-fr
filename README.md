@@ -1,5 +1,5 @@
-# python-allrecipes
-##### v0.1.6
+# python--latin-expr-fr
+##### v0.1.2
 
 Random Latin expression with French translations to upgrade your brain !
 Don't you know life is cool ?
