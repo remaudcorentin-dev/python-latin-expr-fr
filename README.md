@@ -1,4 +1,4 @@
-# python--latin-expr-fr
+# python-latin-expr-fr
 ##### v0.1.2
 
 Random Latin expression with French translations to upgrade your brain !
