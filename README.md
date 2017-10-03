@@ -1,7 +1,7 @@
 # python-latin-expr-fr
 ##### v0.1.2
 
-Random Latin expression with French translations to upgrade your brain !
+Random Latin expressions with French translations to upgrade your brain !
 Don't you know life is cool ?
 
 ### Installation :
